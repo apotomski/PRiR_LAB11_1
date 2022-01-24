@@ -18,7 +18,9 @@ efekt po wyuczeniu się sieci:
  
  
  Jak widać dla danych obrazków program pomylił się tylko dwa razy.
+ 
  Nie udało mu sie rozpoznać 4 ponieważ rozpoznał to jako 8.
+ 
  Oraz 0 ponieważ rozpoznał to jako 6.
  
  Aczkolwiek jak widać 0 nie jest domknięte na górze co mogło spowodować błąd przy rozpoznawaniu.
