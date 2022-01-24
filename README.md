@@ -27,4 +27,4 @@ efekt po wyuczeniu się sieci:
  
  
  
- Źródło: https://github.com/skorch-dev/skorch/tree/master/notebooks
+ Źródło(source): https://github.com/skorch-dev/skorch/blob/master/notebooks/MNIST.ipynb
